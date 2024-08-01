@@ -7,6 +7,7 @@ The Anime Mobile App is a Flutter application designed to provide users with a s
 ## images 
 
 - HOME PAGE
+  
 ![Ekran görüntüsü 2024-08-01 222901](https://github.com/user-attachments/assets/d2023bf5-dfab-4af0-a631-cd24c4664dd3)
 
 - DETAILS PAGE
