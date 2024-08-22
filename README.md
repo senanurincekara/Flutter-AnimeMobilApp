@@ -1,6 +1,7 @@
 # FLUTTER - Anime Mobile App
 The Anime Mobile App is a Flutter application designed to provide users with a seamless experience for discovering, searching, and exploring anime. Featuring real-time search capabilities, detailed anime information, and a modern, user-friendly interface, this app leverages the MyAnimeList API to deliver up-to-date anime data. Users can browse popular and seasonal anime with ease and enjoy a streamlined navigation experience.
 
+# 
 Anime Mobil Uygulaması, kullanıcılarına anime keşfetme, arama yapma ve inceleme konusunda kesintisiz bir deneyim sunmak üzere tasarlanmış bir Flutter uygulamasıdır. Gerçek zamanlı arama özellikleri, detaylı anime bilgileri ve modern, kullanıcı dostu bir arayüz sunan bu uygulama, güncel anime verilerini sağlamak için MyAnimeList API'sini kullanır. Kullanıcılar, popüler ve mevsimlik animeyi kolayca göz atabilir 
 
 ## Video
